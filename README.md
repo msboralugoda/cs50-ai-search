@@ -21,8 +21,6 @@ The following search concepts and algorithms are explored:
 ---
 
 
----
-
 ## Projects
 
 ### Maze Solver
@@ -45,7 +43,7 @@ Implemented algorithms include:
 
 ---
 
-## Tools & Technologies
+## Tools 
 - Python 3
 - Standard Python libraries only (no external ML frameworks)
 
